@@ -1,0 +1,4 @@
+../Core/Src/utils.c:10:6:blinking	1
+../Core/Src/utils.c:19:6:blinkXTimes	2
+../Core/Src/utils.c:29:6:pinInit	1
+../Core/Src/utils.c:34:5:readInput	6
